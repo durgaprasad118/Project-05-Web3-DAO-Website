@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live link](https://project-2-restaurantwebsite.netlify.app/)
+[Live link](https://web3-dao-website-dp1108.netlify.app/)
 
 ## Technologies Used
 
